@@ -1,1 +1,16 @@
-[{"id":1,"title":"Lorem 2","description":"Lorem ipsum dolor sit amet (update)","createdAt":"2022-07-21T06:34:16.718Z","complated":false},{"id":2,"title":"Dasturlash darslari","description":"MERN stack texnologiyasini o'rganish bo'yicha darslar","createdAt":"2022-07-21T15:32:48.255Z","complated":false}]
+[
+  {
+    "id": 1,
+    "title": "Lorem 2",
+    "description": "Lorem ipsum dolor sit amet (update)",
+    "createdAt": "2022-07-21T06:34:16.718Z",
+    "complated": false
+  },
+  {
+    "id": 2,
+    "title": "Dasturlash darslari",
+    "description": "MERN stack texnologiyasini o'rganish bo'yicha darslar",
+    "createdAt": "2022-07-21T15:32:48.255Z",
+    "complated": false
+  }
+]
